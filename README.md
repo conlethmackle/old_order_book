@@ -1,1 +1,1 @@
-# old_order_book - Just something I wrote a while back as an example of processing order book data. Was a nice example from a Company that was bought over. This example is not so smart and I aim to write a much fast one soom 
+# old_order_book - Just something I wrote a while back as an example of processing order book data. Was a nice example from a Company that was bought over. This example is not so smart and I aim to write a much faster one soon
